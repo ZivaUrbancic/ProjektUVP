@@ -1,0 +1,5 @@
+yellow, red, green, blue
+yellow, blue, SkyBlue1, red, 3, 1
+purple4, violet, green, orange, 1, 1
+grey, orange, green, violet, 1, 1
+yellow, red, green, blue, 4, 4
